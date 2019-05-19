@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like learning. Learning together is even more fun.
 
 ### More Information
 
