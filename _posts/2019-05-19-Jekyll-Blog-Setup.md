@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setup a blog with Jekyll on github
-categories: [learning]
+categories: [learning, thoughts]
 tags: [first-time]
 ---
 
@@ -15,3 +15,7 @@ I thought that using a blog would be interesting for note keeping and see what g
 
 Jekyll seemed simple and easy to setup, in other words perfect for a quick test. So far I'm really enjoy using it.
 I am still learning what I can do with it and even now it offers more than enough of what I was looking for.
+
+## Setup
+
+Setup instructions are very easy. Everything you need to know is in the [Jekyll Now repository README.md](https://github.com/barryclark/jekyll-now)
